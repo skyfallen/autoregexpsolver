@@ -2,7 +2,7 @@ Automatic Regexp Crossword Solver
 =================================
 Intro
 -----
-Automatic regexp crossword solver is a tool for solving regexp crosswords, for example the ones that could be found on http://regexcrossword.com/.
+Study project for Text Algorithms course in the Institute of Computer Science of the University of Tartu (http://ut.ee/) automatic regexp crossword solver is a tool for solving regexp crosswords, for example the ones that could be found on http://regexcrossword.com/.
 
 Input
 -----
